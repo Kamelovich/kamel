@@ -1,0 +1,5 @@
+{
+  "name": "Algerian Professional Experience Calculator",
+  "description": "A web application to calculate the total professional experience for employees in Algeria by adding multiple work periods. The app sums up the durations and presents the total in years, months, and days, with a user interface fully in Arabic.",
+  "requestFramePermissions": []
+}
